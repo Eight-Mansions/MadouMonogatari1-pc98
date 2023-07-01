@@ -92,3 +92,8 @@ Have any issues or run into any problems? Feel free to drop by our discord here:
 
 Alternatively, you can message SnowyAria/ArcaneAria on ROMhacking.net or on
 Twitter at @SnowyAria.
+
+![SS1](https://s3.yuvi.app/GamePreservation/Translation/PC/MadouMonogatari1_PC98/ss2.png)
+![SS3](https://s3.yuvi.app/GamePreservation/Translation/PC/MadouMonogatari1_PC98/ss3.png)
+![Announcement](https://s3.yuvi.app/GamePreservation/Translation/PC/MadouMonogatari1_PC98/announcement.jpg)
+
