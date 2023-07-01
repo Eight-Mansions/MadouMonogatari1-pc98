@@ -84,7 +84,7 @@ https://gang-fight.com/projects/98faq/#saveStay
 ## Special Thanks ##
 - Kanji - Hardware testing
 - EsperKnight - Pointer hunting
-- Finna and Emi - Playtesting
+- Fianna and Emi - Playtesting
 
 ## Contact ##
 Have any issues or run into any problems? Feel free to drop by our discord here:
