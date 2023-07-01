@@ -1,6 +1,5 @@
-######################################
-Madou Monogatari 1 (PC-98) (June 2023)
-######################################
+# Madou Monogatari 1 (PC-98) (June 2023)
+
 
 ## Intro ##
 "I'll be back before you know it!"
@@ -32,8 +31,8 @@ Enabling save states in Neko Project:
 https://gang-fight.com/projects/98faq/#saveStay
 
 ## Running the Game ##
-Insert Madou Monogatari 1 System   Disc into FFD #1.
-Insert Madou Monogatari 1 Sampling Disc into FFD #2.
+1. Insert Madou Monogatari 1 System   Disc into FFD #1.
+2. Insert Madou Monogatari 1 Sampling Disc into FFD #2.
 
 ## Requirements ##
 1. HDM Image of Madou Monogatari 1 System Disc (others might work, but have been untested)
@@ -47,16 +46,16 @@ Insert Madou Monogatari 1 Sampling Disc into FFD #2.
 6. Enjoy
 
 ## MD5 Checksum ##
-Orginal HDM System Disc: e386962e19990c670cdd41be577807e7
+- Orginal HDM System Disc: e386962e19990c670cdd41be577807e7
 
 ## Known Issues ##
 - The save game screen shows unused slots as データなし, which we haven't been
   able to locate. This poses no issue with gameplay.
 
 ## Controls ##
-Movement - Arrow keys
-Confirm/select - Space bar
-Cancel/return - Enter key/escape key
+- Movement - Arrow keys
+- Confirm/select - Space bar
+- Cancel/return - Enter key/escape key
 
 ## Tips ##
 - The game does NOT use numbers for health and damage! Instead, values are
@@ -73,18 +72,18 @@ Cancel/return - Enter key/escape key
   unless you really want them earlier!
 
 ## Other Madou Monogatari I Fan Translations by Others ##
-Madou Monogatari I (Game Gear) -    https://www.romhacking.net/translations/1502/
-Madou Monogatari I (Sega Genesis) - https://www.romhacking.net/translations/5388/
-Madou Monogatari I (PC Engine) -    https://www.romhacking.net/translations/5805/
+- Madou Monogatari I (Game Gear) -    https://www.romhacking.net/translations/1502/
+- Madou Monogatari I (Sega Genesis) - https://www.romhacking.net/translations/5388/
+- Madou Monogatari I (PC Engine) -    https://www.romhacking.net/translations/5805/
 
 ## Credits ##
-Yuvi - Hacking
-SnowyAria - Translation
+- Yuvi - Hacking
+- SnowyAria - Translation
 
 ## Special Thanks ##
-Kanji - Hardware testing
-EsperKnight - Pointer hunting
-Finna and Emi - Playtesting
+- Kanji - Hardware testing
+- EsperKnight - Pointer hunting
+- Finna and Emi - Playtesting
 
 ## Contact ##
 Have any issues or run into any problems? Feel free to drop by our discord here:
