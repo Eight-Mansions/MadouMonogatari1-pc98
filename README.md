@@ -46,8 +46,8 @@ https://gang-fight.com/projects/98faq/#saveStay
 6. Enjoy
 
 ## MD5 Checksum ##
-- Orginal HDM System Disc: e386962e19990c670cdd41be577807e7
-- Orginal FDI System Disc: bfd363f20cdfe987db160492c341e434
+- Original HDM System Disc: e386962e19990c670cdd41be577807e7
+- Original FDI System Disc: bfd363f20cdfe987db160492c341e434
 
 ## Known Issues ##
 - The save game screen shows unused slots as データなし, which we haven't been
