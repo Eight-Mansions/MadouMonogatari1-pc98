@@ -35,7 +35,7 @@ https://gang-fight.com/projects/98faq/#saveStay
 2. Insert Madou Monogatari 1 Sampling Disc into FFD #2.
 
 ## Requirements ##
-1. HDM Image of Madou Monogatari 1 System Disc (others might work, but have been untested)
+1. HDM/FDI Image of Madou Monogatari 1 System Disc (others might work, but have been untested)
 
 ## Patching ##
 1. Extract this archive to a folder.
@@ -47,6 +47,7 @@ https://gang-fight.com/projects/98faq/#saveStay
 
 ## MD5 Checksum ##
 - Orginal HDM System Disc: e386962e19990c670cdd41be577807e7
+- Orginal FDI System Disc: bfd363f20cdfe987db160492c341e434
 
 ## Known Issues ##
 - The save game screen shows unused slots as データなし, which we haven't been
